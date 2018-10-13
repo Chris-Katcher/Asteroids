@@ -9,4 +9,9 @@ This project gave me some awesome experience in core game concepts as well as ga
 
 To play the game, download "Asteroids for Computers (x64).zip", extract the contents of the directory and run "Katcher_asteroids".
 
+Controls: Left/right keyboard arrow keys to rotate ship Up arrow to move forward.
+
 For any questions about this game please reach out to cak1352@rit.edu
+
+Screenshots:
+![Alt text](/screenshots/"title screen.png"?raw=true "Title Screen")
