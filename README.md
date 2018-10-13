@@ -14,4 +14,12 @@ Controls: Left/right keyboard arrow keys to rotate ship Up arrow to move forward
 For any questions about this game please reach out to cak1352@rit.edu
 
 Screenshots:
-![Alt text](/screenshots/"title screen.png"?raw=true "Title Screen")
+![Screen Shot](/screenshots/Title%20Screen.PNG?raw=true "Title Screen")
+
+![Screen Shot](/screenshots/Gameplay.PNG?raw=true "Title Screen")
+
+![Screen Shot](/screenshots/Gameplay%202.PNG?raw=true "Title Screen")
+
+![Screen Shot](/screenshots/Pause%20Screen.PNG?raw=true "Title Screen")
+
+![Screen Shot](/screenshots/Score%20Screen.PNG?raw=true "Title Screen")
